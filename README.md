@@ -5,7 +5,7 @@ Founder & Full‑Stack Engineer @ Coderr Studio · Enschede, NL
 | --- | --- | --- |
 
 - 🔭 I help Dutch scale‑ups ship **Next.js & WordPress** platforms that feel premium, rank fast, and convert customers.
-- 
+  
 - 🧠 10+ yrs leading full-stack/product teams across hosting, SaaS, and agencies (Shock Media, Plus Isolatie, Creatiestudio, Bureau Peters, LabMe).
   
 - 🎯 Focused on **quality, performance, profit growth, and customer experience** through better engineering, CRO, and ops.
@@ -48,8 +48,8 @@ Founder & Full‑Stack Engineer @ Coderr Studio · Enschede, NL
 | --- | --- | --- |
 | **Shock Media** managed hosting overhaul | Replatformed legacy functions from php to Angular |
 | **Plus Isolatie** ops suite | PHP Symfony + JS automation for field teams | +22% sales thanks to smart campaigns |
-| **Creatiestudio** WordPress + Next.js stack | Built composable sites, GSAP motion, AWS infra |
-| **LabMe** Do it yourself at home blood test platform |
+| **Creatiestudio** WordPress + Next.js stack | Built composable sites, GSAP motion, AWS infra, ad campaigns, custom webapps / solutions | Many happy clients
+| **LabMe** Do it yourself at home blood test platform | WordPress webshop overhaul + React assistant | More conversion, less bugs, better performance.
 
 ---
 
